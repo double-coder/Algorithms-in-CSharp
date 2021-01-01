@@ -1,0 +1,16 @@
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\bin\Debug\net5.0\Algorithms in C#.exe
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\bin\Debug\net5.0\Algorithms in C#.deps.json
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\bin\Debug\net5.0\Algorithms in C#.runtimeconfig.json
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\bin\Debug\net5.0\Algorithms in C#.runtimeconfig.dev.json
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\bin\Debug\net5.0\Algorithms in C#.dll
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\bin\Debug\net5.0\ref\Algorithms in C#.dll
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\bin\Debug\net5.0\Algorithms in C#.pdb
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.csprojAssemblyReference.cache
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.AssemblyInfoInputs.cache
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.AssemblyInfo.cs
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.csproj.CoreCompileInputs.cache
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.dll
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\ref\Algorithms in C#.dll
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.pdb
+C:\Users\getad\OneDrive\Desktop\Algorithms in C#\obj\Debug\net5.0\Algorithms in C#.genruntimeconfig.cache
